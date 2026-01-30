@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://templerun2modapk.online/sitemap.xml
+Sitemap: https://templerun2modapk.xyz/sitemap.xml

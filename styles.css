@@ -4,7 +4,9 @@
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;700;800;900&display=swap');
-
+body a{
+    color: white;
+}
 :root {
     /* Core Brand Colors */
     --gold-primary: #FFD700;
@@ -232,6 +234,7 @@ nav {
 
 /* --- Hero Section --- */
 .hero {
+    background-color: #ebd40a;
     position: relative;
     min-height: 100vh;
     display: flex;
@@ -247,7 +250,7 @@ nav {
     content: '';
     position: absolute;
     inset: 0;
-    background: radial-gradient(circle at center, rgba(15, 16, 20, 0.4) 0%, rgba(15, 16, 20, 0.95) 100%);
+    background: radial-gradient(circle at center, rgba(245, 241, 5, 0.4) 0%, rgba(15, 16, 20, 0.95) 100%);
     z-index: 1;
 }
 
